@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">LRU_cache</string>
+    <string name="app_name">sync_cache</string>
+    <string name="button_get_image">Button_get_image</string>
+    <string name="image">IMAGE</string>
 </resources>
